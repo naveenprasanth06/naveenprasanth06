@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Naveen Prasanth P</h1>
-<h3 align="center">Aspiring Cloud | DevOps | Full Stack Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=☁️+Cloud+%7C+🚀+DevOps+%7C+💻+Full+Stack+Developer" alt="Typing SVG" />
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/naveen-prasanth-p-373aaa2a0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -12,15 +16,21 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=naveenprasanth06&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/naveenprasanth06?style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/naveenprasanth06?style=social" alt="GitHub Stars"/>
+</p>
+
 ---
 
 ## 🚀 About Me
 
-🎓 I'm a Computer Science Engineering student (B.E.) at Sri Eshwar College of Engineering, passionate about building impactful digital solutions.
+🎓 I'm a Computer Science Engineering student at **Sri Eshwar College of Engineering**, passionate about building impactful digital solutions.
 
-🔧 I specialize in Full Stack Development and am transitioning into the Cloud & DevOps domain.
+🔧 I specialize in **Full Stack Development** and am diving deep into **Cloud & DevOps**.
 
-💡 Currently learning Kubernetes, AWS (advanced services), CI/CD, and infrastructure automation.
+💡 Currently learning **Kubernetes**, **AWS Advanced Services**, **CI/CD**, and **Infrastructure Automation**.
 
 🎯 My goal: Secure a high-impact tech role in a top MNC and make meaningful contributions.
 
@@ -28,15 +38,15 @@
 
 ## 🧠 Tech Stack
 
-**Languages & Programming**
+### 👨‍💻 Languages
 <p>
-  <img src="https://img.icons8.com/color/48/c-programming.png"/> 
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/> 
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> 
+  <img src="https://img.icons8.com/color/48/c-programming.png"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
   <img src="https://img.icons8.com/color/48/python.png"/>
 </p>
 
-**Web & Backend**
+### 🌐 Web & Backend
 <p>
   <img src="https://img.icons8.com/color/48/html-5.png"/>
   <img src="https://img.icons8.com/color/48/css3.png"/>
@@ -47,15 +57,27 @@
   <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
 </p>
 
-**Cloud & DevOps**
+### ☁️ Cloud & DevOps
 <p>
-  <img src="https://img.icons8.com/color/48/amazon-web-services.png"/>
-  <img src="https://img.icons8.com/color/48/docker.png"/>
-  <img src="https://img.icons8.com/color/48/kubernetes.png"/>
-  <img src="https://img.icons8.com/color/48/jenkins.png"/>
-  <img src="https://img.icons8.com/color/48/terraform.png"/>
-  <img src="https://img.icons8.com/color/48/linux.png"/>
-  <img src="https://img.icons8.com/color/48/git.png"/>
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" title="AWS"/>
+  <img src="https://img.icons8.com/color/48/google-cloud.png" title="Google Cloud"/>
+  <img src="https://img.icons8.com/color/48/docker.png" title="Docker"/>
+  <img src="https://img.icons8.com/color/48/kubernetes.png" title="Kubernetes"/>
+  <img src="https://img.icons8.com/color/48/jenkins.png" title="Jenkins"/>
+  <img src="https://img.icons8.com/color/48/terraform.png" title="Terraform"/>
+  <img src="https://img.icons8.com/color/48/ansible.png" title="Ansible"/>
+  <img src="https://img.icons8.com/color/48/linux.png" title="Linux"/>
+  <img src="https://img.icons8.com/color/48/git.png" title="Git"/>
+</p>
+
+
+### 🛠️ Tools & IDEs
+<p>
+  <img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" title="VS Code"/>
+  <img src="https://img.icons8.com/color/48/intellij-idea.png" title="IntelliJ IDEA"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" title="Postman"/>
+  <img src="https://img.icons8.com/color/48/eclipse.png" title="Eclipse"/>
+  <img src="https://img.icons8.com/ios-filled/50/console.png" title="Terminal"/>
 </p>
 
 ---
