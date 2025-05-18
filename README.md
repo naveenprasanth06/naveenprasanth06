@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Naveen Prasanth P</h1>
+<h1 align="center">Hey 👋, I'm NAVEEN PRASANTH P</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=☁️+Cloud+%7C+🚀+DevOps+%7C+💻+Full+Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=☁️+Cloud+%7C+🚀+DevOps+%7C💻+Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
