@@ -122,5 +122,11 @@
 ---
 
 <p align="center">
-  <em>“Work in silence. Let your success make the noise.”</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=FFA500&center=true&vCenter=true&width=800&lines=Attitude+doesn’t+define+everything" />
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=00FFAA&center=true&vCenter=true&width=800&lines=but+determination+does." />
 </p>
+
+
+
+
