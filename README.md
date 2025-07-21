@@ -83,14 +83,23 @@
 
 ## 💼 Key Projects
 
-- **📝 Blog Platform (MERN Stack)**  
-  Full-featured blog with user authentication and admin management
-
-- **💰 Budget Management System (Java + SQL)**  
-  CLI-based personal finance tracker with income/expense summaries
+- **📝 Blogify – Your digital space to write, share & discover**  
+  A full-featured web blogging application built with **React** and **Node.js**. Supports creating, editing, and deleting posts, user authentication, and dynamic post views.  
+  Designed for an intuitive writing experience, with an admin dashboard for managing content and users. Blogify delivers a smooth reading and writing experience, and personalized feed.
 
 - **🤟 ISL Sign Language Translator**  
-  Smart India Hackathon finalist project using TensorFlow to convert Indian Sign Language to speech/text
+  Finalist project at the **Smart India Hackathon**, developed to bridge the communication gap between the deaf and hard-of-hearing community and the hearing world.  
+  The tool aims to empower inclusivity by providing an accessible way for individuals who use sign language to communicate effectively in everyday scenarios, from casual conversations to essential services.
+
+- **🧪 YUGIXX – Ultimate API Testing Tool**  
+  A powerful, modern alternative to Postman designed for efficient API testing and debugging.  
+  Supports **GET**, **POST**, **PUT**, **DELETE**, and custom requests, with real-time response visualization, collection management, environment variables, and automated test scripting.  
+  Built with modern web technologies to streamline API workflows for developers and testers.
+
+- **🐾 ResQtail – Real-Time Rescue Coordination for Stray and Injured Animals**  
+  An AI-powered, community-driven web platform to modernize animal rescue workflows.  
+  Integrates real-time geolocation, an intuitive dashboard for live tracking. Built with **React**, **TypeScript**, and **Firebase**, ResQtail connects citizens, rescuers, and shelters to reduce response time and foster a culture of compassion and civic responsibility.
+
 
 ---
 
