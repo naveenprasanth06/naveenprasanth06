@@ -100,6 +100,8 @@
   An AI-powered, community-driven web platform to modernize animal rescue workflows.  
   Integrates real-time geolocation, an intuitive dashboard for live tracking. Built with **React**, **TypeScript**, and **Firebase**, ResQtail connects citizens, rescuers, and shelters to reduce response time and foster a culture of compassion and civic responsibility.
 
+  - **⚙️ CI/CD Pipeline for React App Deployment (DevOps Project)**  
+  Designed and implemented an automated CI/CD pipeline using Jenkins to build and deploy a React application on an AWS EC2 instance running Nginx. Integrated GitHub for version control and webhook-triggered builds, wrote Jenkins pipeline scripts for install/build/deploy, and configured secure SSH deployment to the server. This project highlights my hands-on skills in continuous integration, delivery automation, and cloud deployment.
 
 ---
 
