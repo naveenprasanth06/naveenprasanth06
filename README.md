@@ -14,6 +14,9 @@
   <a href="mailto:prasanthnaveen100@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://topmate.io/yugen_naveen" target="_blank">
+    <img src="https://img.shields.io/badge/Topmate-Connect-0a8f08?style=for-the-badge&logo=linktree&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
@@ -84,24 +87,19 @@
 ## 💼 Key Projects
 
 - **📝 Blogify – Your digital space to write, share & discover**  
-  A full-featured web blogging application built with **React** and **Node.js**. Supports creating, editing, and deleting posts, user authentication, and dynamic post views.  
-  Designed for an intuitive writing experience, with an admin dashboard for managing content and users. Blogify delivers a smooth reading and writing experience, and personalized feed.
+  Full-featured web blogging app with **React** and **Node.js**. Includes user auth, CRUD posts, and admin dashboard.
 
 - **🤟 ISL Sign Language Translator**  
-  Finalist project at the **Smart India Hackathon**, developed to bridge the communication gap between the deaf and hard-of-hearing community and the hearing world.  
-  The tool aims to empower inclusivity by providing an accessible way for individuals who use sign language to communicate effectively in everyday scenarios, from casual conversations to essential services.
+  Smart India Hackathon finalist — AI & computer vision tool to help the deaf community communicate in real time.
 
 - **🧪 YUGIXX – Ultimate API Testing Tool**  
-  A powerful, modern alternative to Postman designed for efficient API testing and debugging.  
-  Supports **GET**, **POST**, **PUT**, **DELETE**, and custom requests, with real-time response visualization, collection management, environment variables, and automated test scripting.  
-  Built with modern web technologies to streamline API workflows for developers and testers.
+  Modern alternative to Postman — supports GET/POST/PUT/DELETE, collections, and test scripts for clean API workflows.
 
-- **🐾 ResQtail – Real-Time Rescue Coordination for Stray and Injured Animals**  
-  An AI-powered, community-driven web platform to modernize animal rescue workflows.  
-  Integrates real-time geolocation, an intuitive dashboard for live tracking. Built with **React**, **TypeScript**, and **Firebase**, ResQtail connects citizens, rescuers, and shelters to reduce response time and foster a culture of compassion and civic responsibility.
+- **🐾 ResQtail – Real-Time Animal Rescue Platform**  
+  AI-powered web app for smart rescue coordination using maps, geolocation, and ML-based injury prediction.
 
-- **⚙️ CI/CD Pipeline for React App Deployment (DevOps Project)**  
-  Designed and implemented an automated CI/CD pipeline using Jenkins to build and deploy a React application on an AWS EC2 instance running Nginx. Integrated GitHub for version control and webhook-triggered builds, wrote Jenkins pipeline scripts for install/build/deploy, and configured secure SSH deployment to the server. This project highlights my hands-on skills in continuous integration, delivery automation, and cloud deployment.
+- **⚙️ CI/CD Pipeline for React App Deployment**  
+  Fully automated deployment using Jenkins, GitHub webhooks, and AWS EC2 running Nginx — demonstrates practical DevOps.
 
 ---
 
@@ -118,20 +116,20 @@
 
 ## 🏆 Achievements
 
-- 🥇 **1st Place** – Freshathon Project Expo  
-- 🥈 **2nd Place** – Django Web Dev PBL Series  
-- 🥉 **3rd Place** – Portfolio Design Contest  
-- 🚀 **Finalist** – Smart India Hackathon  
+- 🥇 **1st Place** – Freshathon Project Expo
+- 🥈 **2nd Place** – Django Web Dev PBL Series
+- 🥉 **3rd Place** – Portfolio Design Contest
+- 🚀 **Finalist** – Smart India Hackathon
 
 ---
 
 ## ✅ Points
 
-- 🌱 Love automating deployments & infrastructure
-- 📚 Always exploring new DevOps tools and practices
-- 🔒 Strong focus on security in CI/CD pipelines
-- 🌍 Collaborate on open source & hackathons
-- ✍️ Document and share knowledge through blogs
+- 🌱 Always learning new DevOps tools
+- ⚡ Love automating infrastructure & CI/CD
+- 🔒 Focus on security best practices
+- 🧩 Contribute to open source & hackathons
+- ✍️ Share knowledge through blogs & notes
 
 ---
 
@@ -150,7 +148,8 @@
 ## 🤝 Let's Connect
 
 📩 Email: [prasanthnaveen100@gmail.com](mailto:prasanthnaveen100@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/naveen-prasanth-p-373aaa2a0](https://www.linkedin.com/in/naveen-prasanth-p-373aaa2a0)
+🔗 LinkedIn: [linkedin.com/in/naveen-prasanth-p-373aaa2a0](https://www.linkedin.com/in/naveen-prasanth-p-373aaa2a0)  
+🌿 Topmate: [topmate.io/yugen_naveen](https://topmate.io/yugen_naveen)
 
 ---
 
@@ -164,7 +163,6 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naveenprasanth06&show_icons=true&theme=tokyonight&hide=issues" />
   <br />
