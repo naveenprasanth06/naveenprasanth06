@@ -92,20 +92,33 @@
 
 ## 💼 Key Projects
 
-- **📝 Blogify – Your digital space to write, share & discover**  
-  Full-featured web blogging app with **React** and **Node.js**. Includes user auth, CRUD posts, and admin dashboard.
-
-- **🤟 ISL Sign Language Translator**  
-  Smart India Hackathon finalist — AI & computer vision tool to help the deaf community communicate in real time.
-
-- **🧪 YUGIXX – Ultimate API Testing Tool**  
-  Modern alternative to Postman — supports GET/POST/PUT/DELETE, collections, and test scripts for clean API workflows.
-
-- **🐾 ResQtail – Real-Time Animal Rescue Platform**  
-  AI-powered web app for smart rescue coordination using maps, geolocation, and ML-based injury prediction.
+## 💼 Key Projects
 
 - **⚙️ CI/CD Pipeline for React App Deployment**  
-  Fully automated deployment using Jenkins, GitHub webhooks, and AWS EC2 running Nginx — demonstrates practical DevOps.
+  Automated build and deployment pipeline using Jenkins, GitHub webhooks, Docker, and AWS EC2.  
+  Configured SonarQube for code quality checks and Nginx to serve production builds.  
+  Reduced manual deployment effort and improved consistency.
+
+- **🧪 YUGIXX – Browser-based REST API Testing Tool (MERN)**  
+  Built a lightweight Postman-like tool with React, Node.js, Express, and MongoDB.  
+  Supports secure login, request history, and real-time request/response view.  
+  Designed for developer productivity with clean UI.
+
+- **🐾 ResQtail – Animal Rescue Management System (MERN)**  
+  Developed a web app for rescue volunteers to track and manage animal rescue cases.  
+  Added user roles, real-time status updates, and admin dashboards.  
+  Focused on usability, scalability, and social impact.
+
+- **🤟 Noiseless – ISL Sign Translator (SIH)**  
+  Hackathon project using TensorFlow to recognize Indian Sign Language gestures.  
+  Converts signs into text and speech for easier communication.  
+  Built for inclusivity and real-time accessibility.
+
+- **📝 Blogify – MERN Blogging Platform**  
+  Full-featured blogging app with user authentication, CRUD for posts, and admin dashboard.  
+  Developed with React, Node.js, Express, and MongoDB stack.  
+  Focused on simplicity and seamless content management.
+
 
 ---
 
