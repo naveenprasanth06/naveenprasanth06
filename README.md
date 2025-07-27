@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <a href="https://drive.google.com/file/d/1dpWkOVbweVB4gGqBnlqCzWu4Ss8I4nnf/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/naveen-prasanth-p-373aaa2a0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
