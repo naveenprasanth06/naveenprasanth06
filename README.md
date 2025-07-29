@@ -92,8 +92,6 @@
 
 ## 💼 Key Projects
 
-## 💼 Key Projects
-
 - **⚙️ CI/CD Pipeline for React App Deployment**  
   Automated build and deployment pipeline using Jenkins, GitHub webhooks, Docker, and AWS EC2.  
   Configured SonarQube for code quality checks and Nginx to serve production builds.  
