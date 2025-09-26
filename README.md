@@ -120,23 +120,12 @@
 
 ---
 
-## 🎓 Certifications
-
-- **AWS Academy Cloud Foundations**
-- **Kubernetes Security Masterclass (Udemy)**
-- **Complete SQL Bootcamp (Udemy)**
-- **Java Mastery (Udemy)**
-- **JPMorgan Chase SDE Virtual Internship (Forage)**
-- **AWS Solutions Architect Simulations (Forage)**
-
----
-
 ## 🏆 Achievements
 
 - 🥇 **1st Place** – Freshathon Project Expo *(Intra-college Event, 2024)*
 - 🥈 **2nd Place** – Django Web Dev PBL Series *(Intra-college Event, 2023)*
 - 🥉 **3rd Place** – Portfolio Design Contest *(Intra-college Event, 2024)*
-- 🚀 **Finalist** – Smart India Hackathon *(National Level, 2024)*
+- 🚀 **Finalist** – Smart India Hackathon *(Intra-collge Level, 2024)*
 
 ---
 
