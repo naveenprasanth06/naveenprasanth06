@@ -73,7 +73,7 @@
 ![VS Code](https://img.icons8.com/fluency/48/visual-studio-code-2019.png)
 ![IntelliJ](https://img.icons8.com/color/48/intellij-idea.png)
 ![Eclipse](https://img.icons8.com/color/48/eclipse.png)
-![Postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)
+![Postman](https://img.icons8.com/color/48/postman.png)
 ![Figma](https://img.icons8.com/color/48/figma--v1.png)
 ![Notion](https://img.icons8.com/color/48/notion.png)
 ![Photoshop](https://img.icons8.com/doodle/48/adobe-photoshop.png)
@@ -102,39 +102,64 @@
   Supports secure login, request history, and real-time request/response view.  
   Designed for developer productivity with clean UI.
 
-- **🐾 ResQtail – Animal Rescue Management System (MERN)**  
-  Developed a web app for rescue volunteers to track and manage animal rescue cases.  
-  Added user roles, real-time status updates, and admin dashboards.  
-  Focused on usability, scalability, and social impact.
+- **🐾 YUGIXX Production Deployment – DevOps-Ready**  
+  Deployed YUGIXX on AWS EC2 with Jenkins CI/CD and Nginx.  
+  Stateless APIs, modular services, and Dockerized deployment for reliability and scalability.
 
-- **🤟 Noiseless – ISL Sign Translator (SIH)**  
-  Hackathon project using TensorFlow to recognize Indian Sign Language gestures.  
-  Converts signs into text and speech for easier communication.  
-  Built for inclusivity and real-time accessibility.
+- **⚡ Jenkins Pipeline Health Checks**  
+  Set up automated service availability validation as part of CI pipeline.  
+  Ensured early detection of failures, consistent build validation, and reliability.
+
+- **📊 AWS RDS Load Testing & Performance Optimization**  
+  Conducted load testing on RDS instances, monitored performance with CloudWatch.  
+  Optimized scaling, latency, and reliability under peak load.
+
+- **💸 FinOps Automation – AWS Cost Optimization**  
+  Built AWS Lambda scripts to detect idle EC2 instances and unused snapshots, generating cost reports.  
+  Reduced unnecessary spend and automated cloud resource cleanup.
+
+- **📈 AWS QuickSight Analytics Dashboards**  
+  Ingested CSV datasets into S3 and visualized data with QuickSight dashboards.  
+  Enabled fast, interactive data insights for cloud-based BI.
+
+- **📩 Serverless Email Automation with AWS**  
+  Implemented AWS SES, Lambda, DynamoDB, and S3 for event-driven, scalable email workflows.  
+  Ensured reliability and cost-efficiency using serverless architecture.
+
+- **🐳 GitHub Actions + Docker CI/CD Workflow**  
+  Automated end-to-end builds and deployments using GitHub Actions and Docker.  
+  Reduced deployment risks, maintained consistent environments, and improved developer feedback loop.
+
+- **📂 Centralized Log Management & FinOps**  
+  Automated log upload to S3 with lifecycle policies to Glacier.  
+  Reduced EC2 storage costs, centralized logs, and improved operational efficiency.
+
+- **🐾 ResQtail – Animal Rescue Management System (MERN)**  
+  Developed a web app for rescue volunteers with real-time case tracking, role-based access, and dashboards.  
+
+- **🤟 Noiseless – ISL Sign Translator (SIH Hackathon)**  
+  Built a TensorFlow-powered system to convert Indian Sign Language gestures to text and speech.  
 
 - **📝 Blogify – MERN Blogging Platform**  
-  Full-featured blogging app with user authentication, CRUD for posts, and admin dashboard.  
-  Developed with React, Node.js, Express, and MongoDB stack.  
-  Focused on simplicity and seamless content management.
-
+  Full-featured blogging platform with user authentication, CRUD operations, and admin dashboard.
 
 ---
 
 ## 🏆 Achievements
 
-- 🥉 **3rd Place** – Portfolio Design Contest *(Intra-college Event, 2023)*
-- 🥈 **2nd Place** – Django Web Dev PBL Series Contest *(Intra-college Event, 2024)*
-- 🚀 **Finalist** – Smart India Hackathon *(Intra-collge Level, 2024)*
-- 🥇 **1st Place** – Freshathon Project Expo *(Intra-college Event, 2024)*
+- 🥉 3rd Place – Portfolio Design Contest *(Intra-college Event, 2023)*
+- 🥈 2nd Place – Django Web Dev PBL Series Contest *(Intra-college Event, 2024)*
+- 🚀 Finalist – Smart India Hackathon *(Intra-college Level, 2024)*
+- 🥇 1st Place – Freshathon Project Expo *(Intra-college Event, 2024)*
 
 ---
 
 ## ✅ Points
 
-- 🌱 Always learning new DevOps tools
-- ⚡ Love automating infrastructure & CI/CD
-- 🔒 Focus on security best practices
-- 🧩 Contribute to open source & hackathons
+- 🌱 Always learning new DevOps tools  
+- ⚡ Love automating infrastructure & CI/CD  
+- 🔒 Focus on security best practices  
+- 🧩 Contribute to open source & hackathons  
 - ✍️ Share knowledge through blogs & notes
 
 ---
