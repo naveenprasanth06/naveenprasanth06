@@ -143,6 +143,11 @@
 - **📝 Blogify – MERN Blogging Platform**  
   Full-featured blogging platform with user authentication, CRUD operations, and admin dashboard.
 
+- **🐳 Automated CI/CD Workflow for Next.js Application**
+Built end-to-end GitHub Actions + Docker pipeline for a production-ready Next.js app.
+Configured matrix builds (Node.js 18.x, 20.x, 22.x), automated Jest unit tests, and automatically built and pushed Docker images to Docker Hub.
+Reduced deployment risks, ensured consistent environments, and accelerated developer feedback loops. 
+
 ---
 
 ## 🏆 Achievements
