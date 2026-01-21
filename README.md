@@ -195,9 +195,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveenprasanth0508&show_icons=true&theme=tokyonight&hide=issues" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naveenprasanth06&show_icons=true&theme=tokyonight&hide=issues" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenprasanth0508&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenprasanth06&theme=tokyonight&hide_border=true" />
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveenprasanth0508&theme=react-dark&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveenprasanth06&theme=react-dark&area=true&hide_border=true"/>
 </p>
