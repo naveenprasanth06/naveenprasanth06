@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1iFGCjxSV7LBeoYE8t3D4J4AT07xv2GpX/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1kAC3XJkQehYPoP09F-3pXVD4fSs8ru0R/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
   </a>
 </p>
@@ -195,7 +195,6 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveenprasanth06&show_icons=true&theme=tokyonight&hide=issues" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenprasanth06&theme=tokyonight&hide_border=true" />
   <br />
