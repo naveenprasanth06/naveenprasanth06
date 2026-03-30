@@ -90,58 +90,79 @@
 
 ---
 
-## 💼 Key Projects
+## 💼 Projects
+
+### 🚀 Cloud-Native & Scalable Systems
+
+- **🎫 SupportDesk – Cloud-Native Ticket Management System**  
+  Built a scalable ticketing platform using React and Node.js with real-time updates via Socket.io.  
+  Deployed Dockerized services on AWS ECS Fargate with ALB and hosted frontend on S3.  
+  Implemented JWT-based RBAC, SES notifications, DynamoDB audit logs, and CloudWatch monitoring.
+
+---
+
+### ⚙️ DevOps & CI/CD
 
 - **⚙️ CI/CD Pipeline for React App Deployment**  
-  Automated build and deployment pipeline using Jenkins, GitHub webhooks, Docker, and AWS EC2.  
-  Configured SonarQube for code quality checks and Nginx to serve production builds.  
-  Reduced manual deployment effort and improved consistency.
+  Automated build and deployment using Jenkins, Docker, GitHub Webhooks, and AWS EC2.  
+  Integrated SonarQube for code quality and Nginx for production serving.
 
-- **🧪 YUGIXX – Browser-based REST API Testing Tool (MERN)**  
-  Built a lightweight Postman-like tool with React, Node.js, Express, and MongoDB.  
-  Supports secure login, request history, and real-time request/response view.  
-  Designed for developer productivity with clean UI.
+- **🐳 GitHub Actions + Docker CI/CD Workflow**  
+  Built automated pipelines for testing, building, and deploying containerized applications.  
+  Ensured consistent environments and faster developer feedback cycles.
+
+- **⚡ Jenkins Pipeline Health Checks**  
+  Implemented automated service validation within CI pipelines.  
+  Improved failure detection and deployment reliability.
+
+---
+
+### ☁️ Cloud & FinOps
+
+- **💸 FinOps Automation – AWS Cost Optimization**  
+  Developed AWS Lambda scripts to detect idle EC2 instances and unused snapshots.  
+  Automated cost reporting and reduced unnecessary cloud spend.
+
+- **📂 Centralized Log Management & FinOps**  
+  Automated log storage in S3 with lifecycle policies to Glacier.  
+  Reduced storage costs and improved log accessibility.
+
+- **📩 Serverless Email Automation with AWS**  
+  Built event-driven email workflows using AWS SES, Lambda, DynamoDB, and S3.  
+  Ensured scalable and cost-efficient communication system.
+
+- **📊 AWS RDS Load Testing & Performance Optimization**  
+  Conducted load testing and monitored performance using CloudWatch.  
+  Optimized scaling, latency, and system reliability.
+
+- **📈 AWS QuickSight Analytics Dashboards**  
+  Visualized S3 datasets using QuickSight dashboards for real-time business insights.
+
+---
+
+### 🧪 Full Stack Applications
+
+- **🧪 YUGIXX – REST API Testing Platform (MERN)**  
+  Developed a Postman-like tool with secure authentication and request history.  
+  Enabled real-time request/response visualization for developers.
 
 - **🐾 YUGIXX Production Deployment – DevOps-Ready**  
   Deployed YUGIXX on AWS EC2 with Jenkins CI/CD and Nginx.  
-  Stateless APIs, modular services, and Dockerized deployment for reliability and scalability.
+  Built stateless APIs with Dockerized architecture for scalability.
 
-- **⚡ Jenkins Pipeline Health Checks**  
-  Set up automated service availability validation as part of CI pipeline.  
-  Ensured early detection of failures, consistent build validation, and reliability.
-
-- **📊 AWS RDS Load Testing & Performance Optimization**  
-  Conducted load testing on RDS instances, monitored performance with CloudWatch.  
-  Optimized scaling, latency, and reliability under peak load.
-
-- **💸 FinOps Automation – AWS Cost Optimization**  
-  Built AWS Lambda scripts to detect idle EC2 instances and unused snapshots, generating cost reports.  
-  Reduced unnecessary spend and automated cloud resource cleanup.
-
-- **📈 AWS QuickSight Analytics Dashboards**  
-  Ingested CSV datasets into S3 and visualized data with QuickSight dashboards.  
-  Enabled fast, interactive data insights for cloud-based BI.
-
-- **📩 Serverless Email Automation with AWS**  
-  Implemented AWS SES, Lambda, DynamoDB, and S3 for event-driven, scalable email workflows.  
-  Ensured reliability and cost-efficiency using serverless architecture.
-
-- **🐳 GitHub Actions + Docker CI/CD Workflow**  
-  Automated end-to-end builds and deployments using GitHub Actions and Docker.  
-  Reduced deployment risks, maintained consistent environments, and improved developer feedback loop.
-
-- **📂 Centralized Log Management & FinOps**  
-  Automated log upload to S3 with lifecycle policies to Glacier.  
-  Reduced EC2 storage costs, centralized logs, and improved operational efficiency.
-
-- **🐾 ResQtail – Animal Rescue Management System (MERN)**  
-  Developed a web app for rescue volunteers with real-time case tracking, role-based access, and dashboards.  
-
-- **🤟 Noiseless – ISL Sign Translator (SIH Hackathon)**  
-  Built a TensorFlow-powered system to convert Indian Sign Language gestures to text and speech.  
+- **🐾 ResQtail – Animal Rescue Management System**  
+  Built a web platform for rescue volunteers with real-time tracking and dashboards.
 
 - **📝 Blogify – MERN Blogging Platform**  
-  Full-featured blogging platform with user authentication, CRUD operations, and admin dashboard.
+  Developed a full-featured blogging system with authentication and admin controls.
+
+---
+
+### 🤖 AI / Hackathon Projects
+
+- **🤟 Noiseless – ISL Sign Language Translator**  
+  Built a TensorFlow-based system to convert sign language gestures into text and speech.  
+  Developed during Smart India Hackathon.
   
 ---
 
