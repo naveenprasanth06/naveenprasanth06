@@ -148,8 +148,8 @@
 
 ## 🐳Orchexa - Containerized DevOps Workflow Engine
 
-- Engineered Docker-based automation workflows for testing, containerization, and deployment
-- Built multi-stage Docker pipelines to improve build optimization and deployment consistency
+- A production-ready CI/CD pipeline built using GitHub Actions, Docker, and Next.js to automate testing, building, containerization, and deployment workflows.
+- Compatibility Testing -> Node.js 18.x, Node.js 20.x, Node.js 22.x Application
 - Automated CI workflows using GitHub Actions and container orchestration practices
 - Reduced deployment drift using immutable infrastructure and standardized runtime environments
 - Improved development lifecycle reliability through automated validation workflows
