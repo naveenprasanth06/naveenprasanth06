@@ -135,7 +135,7 @@
 
 # ⚙️ DevOps & Platform Engineering
 
-## 🚀 CI/CD Automation Platform
+## 🚀 Deployix - CI/CD Automation Platform
 
 - Designed production-grade CI/CD pipelines using Jenkins, Docker, GitHub Actions, and AWS EC2
 - Automated build, validation, deployment, and rollback workflows
@@ -146,7 +146,7 @@
 
 ---
 
-## 🐳 Containerized DevOps Workflow Engine
+## 🐳Orchexa - Containerized DevOps Workflow Engine
 
 - Engineered Docker-based automation workflows for testing, containerization, and deployment
 - Built multi-stage Docker pipelines to improve build optimization and deployment consistency
@@ -156,7 +156,7 @@
 
 ---
 
-## 🔍 Jenkins Deployment Validation System
+## 🔍VerifiOps - Jenkins Deployment Validation System
 
 - Developed automated health-check and deployment validation pipelines
 - Implemented API validation and service availability monitoring workflows
@@ -168,7 +168,7 @@
 
 # ☁️ Cloud & FinOps Engineering
 
-## 💸 AWS FinOps Automation Suite
+## 💸FinOptix - AWS FinOps Automation Suite
 
 - Developed AWS Lambda automation workflows to identify idle EC2 instances and unused snapshots
 - Automated cloud infrastructure auditing and cost-governance operations
@@ -178,7 +178,7 @@
 
 ---
 
-## 📦 Intelligent Cloud Log Archival System
+## 📦FiLo - Intelligent Cloud Log Archival System
 
 - Built centralized log archival architecture using Amazon S3 lifecycle policies
 - Automated long-term log retention workflows with Glacier storage optimization
@@ -187,7 +187,7 @@
 
 ---
 
-## 📩 Serverless Notification Automation Platform
+## 📩Mailmesh - Serverless Notification Automation Platform
 
 - Built event-driven serverless communication workflows using AWS SES, Lambda, DynamoDB, and S3
 - Designed scalable notification pipelines with automated event processing
@@ -196,7 +196,7 @@
 
 ---
 
-## 📊 AWS RDS Performance Optimization Platform
+## 📊Datavax - AWS RDS Performance Optimization Platform
 
 - Conducted infrastructure load testing and database performance analysis using CloudWatch
 - Optimized scaling, latency, and infrastructure resource utilization
@@ -205,7 +205,7 @@
 
 ---
 
-## 📈 AWS Analytics Dashboard System
+## 📈CloudSight - AWS Analytics Dashboard System
 
 - Built cloud-based analytics dashboards using AWS QuickSight and S3 datasets
 - Visualized operational metrics and business intelligence workflows
