@@ -92,12 +92,19 @@
 
 ## 💼 Projects
 
-### 🚀 Cloud-Native & Scalable Systems
+## 🚀 Cloud-Native & Scalable Systems
 
 - **🎫 SupportDesk – Cloud-Native Ticket Management System**  
   Built a scalable ticketing platform using React and Node.js with real-time updates via Socket.io.  
   Deployed Dockerized services on AWS ECS Fargate with ALB and hosted frontend on S3.  
   Implemented JWT-based RBAC, SES notifications, DynamoDB audit logs, and CloudWatch monitoring.
+
+- **♻️ Urban Waste Intelligence (UWI) – AI-Powered Smart Waste Collection Scheduler**  
+  Developed a smart waste management platform using React, TypeScript, and Supabase for real-time waste monitoring and analytics.  
+  Implemented AI-based fill prediction, optimized waste collection routes, fire detection alerts, and interactive map visualization.  
+  Integrated Gemini API, Resend API, PostgreSQL, and Leaflet Maps to improve collection efficiency and smart city operations.
+
+---
 
 ---
 
