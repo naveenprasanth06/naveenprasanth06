@@ -135,6 +135,19 @@
 
 # ⚙️ DevOps & Platform Engineering
 
+## 📊 Monitrax - Unified VM & Container Monitoring Platform
+
+- Designed a centralized observability platform for monitoring virtual machines and Docker containers in real time
+- Implemented VM-level infrastructure monitoring using Node Exporter for CPU, memory, disk, and network metrics
+- Built container-level monitoring workflows using cAdvisor for Docker resource utilization and health visibility
+- Integrated Prometheus-based metric aggregation with Grafana visualization dashboards for unified monitoring
+- Developed real-time infrastructure dashboards with performance analytics and operational insights
+- Engineered scalable monitoring architecture supporting multi-layer infrastructure observability
+- Improved troubleshooting efficiency through centralized metric collection and root-cause visibility
+- Reduced monitoring complexity using open-source cloud-native observability tooling
+
+---
+
 ## 🚀 Deployix - CI/CD Automation Platform
 
 - Designed production-grade CI/CD pipelines using Jenkins, Docker, GitHub Actions, and AWS EC2
