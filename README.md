@@ -135,7 +135,7 @@
 
 # ⚙️ DevOps & Platform Engineering
 
-## 📊 Monitrax - Unified VM & Container Monitoring Platform
+## 📊 Monitraz - Unified VM & Container Monitoring Platform
 
 - Designed a centralized observability platform for monitoring virtual machines and Docker containers in real time
 - Implemented VM-level infrastructure monitoring using Node Exporter for CPU, memory, disk, and network metrics
@@ -148,7 +148,7 @@
 
 ---
 
-## 🚀 Deployix - CI/CD Automation Platform
+## 🚀 DeployiC - CI/CD Automation Platform
 
 - Designed production-grade CI/CD pipelines using Jenkins, Docker, GitHub Actions, and AWS EC2
 - Automated build, validation, deployment, and rollback workflows
@@ -181,7 +181,7 @@
 
 # ☁️ Cloud & FinOps Engineering
 
-## 💸FinOptix - AWS FinOps Automation Suite
+## 💸FinOpti - AWS FinOps Automation Suite
 
 - Developed AWS Lambda automation workflows to identify idle EC2 instances and unused snapshots
 - Automated cloud infrastructure auditing and cost-governance operations
